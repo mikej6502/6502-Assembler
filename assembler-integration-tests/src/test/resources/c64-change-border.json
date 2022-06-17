@@ -1,0 +1,5 @@
+{
+  "sourceCode" :
+    "    lda #$02\n    sta $d020\n    sta $d021",
+  "machineCode" : "A9 02 8D 20 D0 8D 21 D0"
+}
